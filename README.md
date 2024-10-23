@@ -9,7 +9,7 @@
 
 [![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=flat-square&logo=instagram)](
 
-## Hi I'm Karla 👋
+## Sobre mi
 
 ° 💻 VScode Developer
 ° 🔭 Actualmente trabajando con VScode
