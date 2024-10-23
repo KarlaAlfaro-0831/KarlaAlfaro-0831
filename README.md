@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo9n_NydNECCrr1ckDh6QhQ?color=e377c2&style=social)](https://youtube.com/CodeCraftKaro?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/KarlaAlfaro-0831?color=ad8b73&style=social)](https://github.com/KarlaAlfaro-0831)
-[![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)
+![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)
 
 ## Sobre mi
 
