@@ -3,19 +3,19 @@
 </div>
 <img src="banner.jpg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo9n_NydNECCrr1ckDh6QhQ?color=e377c2&style=flat-square)](https://youtube.com/CodeCraftKaro?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo9n_NydNECCrr1ckDh6QhQ?color=e377c2&style=social)](https://youtube.com/CodeCraftKaro?sub_confirmation=1)
 
-[![GitHub followers](https://img.shields.io/github/followers/KarlaAlfaro-0831?color=ad8b73&style=flat-square)](https://github.com/KarlaAlfaro-0831)
+[![GitHub followers](https://img.shields.io/github/followers/KarlaAlfaro-0831?color=ad8b73&style=social)](https://github.com/KarlaAlfaro-0831)
 
-[![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=flat-square&logo=instagram)](
+[![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)
 
 ## Sobre mi
 
-° 💻 VScode Developer
-° 🔭 Actualmente trabajando con VScode
-° 🌱 Actualmente aprendiendo más código
-° 👩🏽‍💻 Estudiante de Programación
-° ✨ Te enseño a programar en mi canal de YouTube (CodeCraftKaro)
+° 💻 VScode Developer<br>
+° 🔭 Actualmente trabajando con VScode<br>
+° 🌱 Actualmente aprendiendo más código<br>
+° 👩🏽‍💻 Estudiante de Programación<br>
+° ✨ Te enseño a programar en mi canal de YouTube (CodeCraftKaro)<br>
 ° 😄 Pronouns: she/her
 
 <br>
