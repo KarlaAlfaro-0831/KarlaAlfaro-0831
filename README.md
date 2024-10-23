@@ -21,11 +21,11 @@
 ## Experiencia en
 
 ° 💻 Páginas en HTML<br>
-° 🔭 Diseño/estilos en CSS<br>
+° 🌅 Diseño/estilos en CSS<br>
 ° 🌱 JavaScript<br>
 ° 👩🏽‍💻 C++<br>
-° ✨ Java<br>
-° 😄 Eclipse IDE, Brackets , NeatBeans IDE, VScode<br>
+° 💫 Java<br>
+° 💜 Eclipse IDE, Brackets , NeatBeans IDE, VScode<br>
 
 <br>
 
