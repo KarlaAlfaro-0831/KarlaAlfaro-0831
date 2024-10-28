@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/KarlaAlfaro-0831?color=ad8b73&style=social)](https://github.com/KarlaAlfaro-0831)
 [![Sígueme en Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)](https://instagram.com/karo_lannd)
 [![Sígueme en X](https://img.shields.io/static/v1?label=X&message=Sigueme&color=ffa07a&style=social&logo=x)](https://twitter.com/karo_lannd)
+[![Sígueme en Facebook](https://img.shields.io/static/v1?label=Facebook&message=Sigueme&color=ffa07a&style=social&logo=facebook)](https://www.facebook.com/profile.php?id=61567473181018)
 
 ## Sobre mi
 
