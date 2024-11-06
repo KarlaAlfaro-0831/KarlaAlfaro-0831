@@ -44,36 +44,21 @@
 </p>
 <br>
 
-## Proyectos *CodeCraftKaro*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">¿Cómo instalar VSCODE en MENOS de 5 MINUTOS?</h3>
-<div align="center">
-<p>
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/watch?v=ma5JpC1kYkY" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a  como instalar <strong>Visual Studio Code desde cero</strong> en menos de <strong>5 MINUTOS</strong> y de manera muy fácil.</p>
-</div>
-                                                                                      
-</td>
 
-<td width="50%">
+<td width="33%">
                <br>
-<h3 align="center">CREA tu primer PÁGINA HTML</h3>
-<div align="center">                                     
+<h3 align="center">PROGRAMMING</h3>
+<div align="center">                                      
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/ae3ed5f8-5676-4fdd-a57c-6e947fcfbba3.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Crea tu primer <strong>PÁGINA HTML</strong> de manera local en tu laptop</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                            
+</table>
